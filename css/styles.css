@@ -394,7 +394,6 @@ body {
 }
 .footer-all {
   display: flex;
-  padding-top: 100px;
   align-items: baseline;
 }
 .first-footer {
