@@ -604,6 +604,9 @@ body {
   margin-bottom: 16px;
 }
 .review-form-field-wrapper {
+  margin-bottom: 8px;
+}
+.review-form-field-wrapper-end{
   margin-bottom: 16px;
 }
 .review-form-field-label {
