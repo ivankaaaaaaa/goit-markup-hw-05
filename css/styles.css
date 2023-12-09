@@ -606,7 +606,7 @@ body {
 .review-form-field-wrapper {
   margin-bottom: 8px;
 }
-.review-form-field-wrapper-end{
+.review-form-field-wrapper-end {
   margin-bottom: 16px;
 }
 .review-form-field-label {
@@ -647,6 +647,7 @@ body {
   fill: #2e2f42;
 }
 .review-form-comment {
+  display: block;
   width: 100%;
   height: 120px;
   border-radius: 4px;
